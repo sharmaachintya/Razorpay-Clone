@@ -1,4 +1,4 @@
-﻿#Validation Framework (Guardrails)
+﻿# Validation Framework (Guardrails)
 
  ## What is Guardrails? 
 
@@ -19,4 +19,4 @@ Majorly there are 5 ways of applying guardrails to any Language Model, which a u
   <li> Input guardrails - These limit the types of input the model will respond to, helping to mitigate the risk of the model responding to inappropriate or adversarial prompts which would lead to generating harmful content.</li>
 </ul>
 
-##
+# Content Safety Guardrails
